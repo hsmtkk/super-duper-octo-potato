@@ -1,2 +1,2 @@
 [workspace]
-members = ["calc_total", "average"]
+members = ["calc_total", "average", "fizzbuzz"]
