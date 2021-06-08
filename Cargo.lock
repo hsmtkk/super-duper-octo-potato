@@ -13,6 +13,10 @@ name = "char_count"
 version = "0.1.0"
 
 [[package]]
+name = "fibonacci"
+version = "0.1.0"
+
+[[package]]
 name = "fizzbuzz"
 version = "0.1.0"
 
